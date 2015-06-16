@@ -1,2 +1,2 @@
 # quickmapservices_contrib
-Contributed data sources for QuickMapServices
+Contributed data sources for QuickMapServices plugin
