@@ -7,6 +7,10 @@ To become available for QuickMapServices plugin, new release should made by some
 
 A short instruction on how to add new QuickMapServices data_source: https://github.com/nextgis/quickmapservices/wiki/Adding-data-source
 
+License
+-------------
+This program is licensed under GNU GPL v2 or any later version
+
 Commercial support
 ----------
 Need to fix a bug or add a feature to quickmapservices_contrib? We provide custom development and support for this software. [Contact us](http://nextgis.ru/en/contact/) to discuss options!
