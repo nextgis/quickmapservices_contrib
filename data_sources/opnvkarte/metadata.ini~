@@ -1,0 +1,19 @@
+[general]
+id = opnvkarte
+type = TMS
+is_contrib = True
+
+[ui]
+group = osm
+alias = Öpnvkarte
+icon = opnvkarte.svg
+
+[license]
+name = CC-BY-SA 2.0
+link = https://creativecommons.org/licenses/by-sa/2.0/
+copyright_text =© Öpnvkarte, CC-BY-SA
+copyright_link = http://www.xn--pnvkarte-m4a.de/
+terms_of_use = http://www.xn--pnvkarte-m4a.de/
+
+[tms]
+url = http://tileserver.memomaps.de/tilegen/{z}/{x}/{y}.png
